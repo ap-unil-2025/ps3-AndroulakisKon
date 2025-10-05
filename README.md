@@ -1,6 +1,6 @@
 # Problem Set 3: Git & Python Fundamentals
 
-## Student Information
+## Student Information/files/ps3-AndroulakisKon
 Konstantinos Androulakis  
 October 2025
 
